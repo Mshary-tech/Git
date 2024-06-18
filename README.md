@@ -1,2 +1,1 @@
-# Git
-this repo for testing some tech
+# this project is not importent
